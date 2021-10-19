@@ -21,17 +21,16 @@ p {
   padding-bottom: 27px;
 }
 h1 {
-  font-size: 39px;
-}
-a {
-  text-decoration: none;
-}
+  font-size: 39.744px;}
 h2 {
-  font-size: 33px;
-}
+  font-size: 33.12px;
+  font-weight: bold}
 h3 {
-  font-size: 28px;
-}
+  font-size: 28px;}
 h4 {
-  font-size: 25px;
+  font-size: 25px;}
+  a {
+    text-decoration: none;}
+.green-background {
+  background-color: #00FF00;
 }
