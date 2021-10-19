@@ -9,6 +9,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 
 html {
+  font-family: sans-serif;
   font-size: 22px;
   line-height: 27px;
 }
