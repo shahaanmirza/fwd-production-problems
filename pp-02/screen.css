@@ -11,14 +11,15 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 html {
   font-family: "Helvetica neue", Helvetica, Arial, sans-serif;
   font-size: 22px;
-  line-height: 27px;
+  line-height: 28px;
+  padding: 14px;
 }
 h1,
 h2,
 h3,
 h4,
 p {
-  padding-bottom: 27px;
+  padding-bottom: 14px;
 }
 h1 {
   font-size: 39.744px;}
