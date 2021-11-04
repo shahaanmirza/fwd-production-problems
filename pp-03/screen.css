@@ -54,5 +54,10 @@ flex-flow: column-reverse nowrap;
 }
 
 @media screen and (min-width: 800px) {
-
+  #three,
+  #two,
+  #one {
+    flex: 1 0 33%;
+    height: 33vw;
+  }
 }
